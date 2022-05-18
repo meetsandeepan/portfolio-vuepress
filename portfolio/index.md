@@ -1,7 +1,7 @@
 ---
 works_index: true
-hero_text: "<strong>Hi! I'm Sandy</strong>, I work at the confluence of technology
-  and biology."
+hero_text: "<strong>Hi! I'm Sandy</strong>, I work at the confluence of biology and
+  technology."
 title: Hero
 
 ---
