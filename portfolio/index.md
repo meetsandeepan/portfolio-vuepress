@@ -1,6 +1,7 @@
 ---
 works_index: true
-hero_text: "<strong>We're Acme</strong>, we work for brands. But most importantly, we work for fun."
+hero_text: "<strong>Hi! I'm Sandy</strong>, I work at the confluence of technology
+  and biology."
 title: Hero
 
 ---
