@@ -18,16 +18,16 @@
       "external": true
     },
     {
-      "text": "Say hi!",
-      "link": "mailto:sayhi@mydomain.com",
-      "position": "right",
-      "external": true
-    },
-    {
       "text": "Journal",
       "link": "/journal/",
       "position": "right",
       "external": false
+    },
+    {
+      "text": "Say hi!",
+      "link": "mailto:sayhi@mydomain.com",
+      "position": "right",
+      "external": true
     }
   ]
 }
